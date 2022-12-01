@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(211, 175, 78);
+}
+form{
+    text-align: center;
+    font-size: 20px;
+
+}
+#poco{
+    border-radius: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.59);
+    color: rgb(255, 255, 255);
+    background-color: rgb(211, 175, 78);
+    margin-top: 8px;
+    font-size: 25px;
+}
+#copo{
+    border-radius: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.59);
+    color: rgb(255, 255, 255);
+    background-color: rgb(211, 175, 78);
+    margin-top: 8px;
+    font-size: 25px;
+}
+#c0po{
+    border-radius: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.59);
+    color: rgb(255, 255, 255);
+    background-color: rgb(211, 175, 78);
+    margin-top: 8px;
+    font-size: 25px;
+}
+#boom{
+    border-radius: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.59);
+    color: rgb(255, 255, 255);
+    background-color: rgb(211, 175, 78);
+    margin-top: 8px;
+    font-size: 25px;
+}

@@ -1,0 +1,141 @@
+#header{
+    background-color:  rgb(168, 168, 83);
+    height: 123px;
+    width: 1900px;
+}
+
+#footer{
+    background-color: rgb(168, 168, 83);
+    height: 100px;
+    width: 1900px;
+    margin-top: 0%;
+}
+
+
+
+body{
+    background-color: rgb(100, 100, 39);
+    margin: 0%;
+    
+}
+#znajdz{
+    height: 20px;
+    width: 500px;
+   text-align: center;
+    margin-left: 550px;
+   
+}
+
+
+#obrazek{
+    text-align: left;
+    height: 100px;
+    width: 100px;
+}
+#loguj{
+    height: 100px;
+    width: 100px;
+    margin-top: 500px;
+    font-size: 25px;
+     position: fixed;
+    right: 0;
+     top: 10%;
+  margin-top: -2.5em;
+}
+
+#gra{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(211, 175, 78);
+    display: inline-block;
+    border: 2px solid rgba(0, 0, 0, 0.59);
+    border-radius: 10px;
+   margin-left: 100px;
+}
+#srodek{
+    height: 660px;
+    width: 1200px;
+    background-color: bisque;
+    margin-top: 20px;
+    margin-left: 300px;
+    border-radius: 10px;
+    border: 2px solid black;
+}    
+#borderek{
+    background-color:bisque ;
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+	margin: auto;
+	
+}
+#formu{
+    
+    text-align: center;
+    padding: 25px 0 0 5px;
+    
+    
+
+}
+#jeden{
+    border-radius: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.59);
+    color: rgb(255, 255, 255);
+    background-color: rgb(211, 175, 78);
+    margin-top: 8px;
+    font-size: 25px;
+}
+#dwa{
+    border-radius: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.59);
+    color: rgb(255, 255, 255);
+    background-color: rgb(211, 175, 78);
+    margin-top: 8px;
+    font-size: 25px;
+}
+#trzy{
+    border-radius: 10px;
+    border: 2px solid rgba(0, 0, 0, 0.59);
+    color: rgb(255, 255, 255);
+    background-color: rgb(211, 175, 78);
+    margin-top: 8px;
+    font-size: 25px;
+}
+#wiad{
+color: rgb(0, 0, 0);
+}
+ul {
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    }
+    
+    li a {
+    display: block;
+    float: left;
+    text-align: center;
+    font-size: 1.2em;
+    width: 130px;
+    text-decoration: none;
+   
+    background-color: rgb(211, 175, 78);
+    padding: 10px 15px;
+    margin: 0px 1px 1px 0px;
+    border: 2px solid rgba(0, 0, 0, 0.59);
+    border-radius: 3px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    color: white;
+        margin-left: 330px;
+}
+
+    li a:hover {
+    background: rgb(105, 116, 51);
+    }
+    
+ #tabela{
+        display: inline;
+        margin: 0;
+        }
